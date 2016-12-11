@@ -126,6 +126,53 @@
     }
 }
 
+/*ส่วนรูปภาพ*/
+div.img {
+    border: 1px solid #ccc;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 /*ส่วนของ menu*/
 ul {
     list-style-type: none;
@@ -230,5 +277,88 @@ li.dropdown {
 <div class="header">
   <h1 align="center">Football Shops</h1>
 </div>
+    
+    <div class="main">
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/NEWBALANCE Furon 2.0 SG Apex LE 3.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/NEWBALANCE MiUK One FG 3.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/NIKE MAGISTA OBRA II FG 2.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/NIKE MAGISTA OBRA II FG.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/NIKE MERCURIAL VICTORY VI CR7 FG 1.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/PUMA EVOTOUCH 1 FG 3.png" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/PUMA king-top-m.i.i-pl-fg.png" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/adidas Copa 17.4 Flexible Ground.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/adidas X 16.1 Firm Ground 3.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+    </div>
     </body>
 </html>
