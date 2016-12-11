@@ -231,6 +231,16 @@ li.dropdown {
 </div>
     <div class="main">
         
+        <%-- แถวแรก --%>
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="kid/adidas Bayern Home Shorts 2016 2017 Junior 1.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
     </div>
     </body>
 </html>
