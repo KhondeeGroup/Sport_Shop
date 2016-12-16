@@ -265,10 +265,10 @@ li.dropdown {
     <li class="dropdown">
         <a href="javascript:void(0)" class="dropbtn">Brands</a>
         <div class="dropdown-content">
-            <a href="#">Adidas</a>
-            <a href="#">Nike</a>
-            <a href="#">Puma</a>
-            <a href="#">New balance</a>
+            <a href="AdidasBoot.jsp">Adidas</a>
+            <a href="NikeBoot.jsp">Nike</a>
+            <a href="PumaBoot.jsp">Puma</a>
+            <a href="NewBalanceBoot.jsp">New balance</a>
         </div>
     </li>
     <li><a href="#About">About</a></li>

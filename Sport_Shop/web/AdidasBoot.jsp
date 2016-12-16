@@ -282,7 +282,7 @@ li.dropdown {
         <div class="responsive">
         <div class="img">
             <a target="_blank" href="#">
-                <img src="boot/NEWBALANCE Furon 2.0 SG Apex LE 3.jpg" alt="Fjords" width="300" height="200">
+                <img src="boot/adidas Copa 17.4 Flexible Ground 2.jpg" alt="Fjords" width="300" height="200">
             </a>
             <div class="desc">Add a description of the image here</div>
         </div>
@@ -291,7 +291,7 @@ li.dropdown {
         <div class="responsive">
         <div class="img">
             <a target="_blank" href="#">
-                <img src="boot/NEWBALANCE MiUK One FG 3.jpg" alt="Fjords" width="300" height="200">
+                <img src="boot/adidas Copa 17.4 Flexible Ground 3.jpg" alt="Fjords" width="300" height="200">
             </a>
             <div class="desc">Add a description of the image here</div>
         </div>
@@ -300,43 +300,7 @@ li.dropdown {
         <div class="responsive">
         <div class="img">
             <a target="_blank" href="#">
-                <img src="boot/NIKE MAGISTA OBRA II FG 2.jpg" alt="Fjords" width="300" height="200">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        </div>
-        
-        <div class="responsive">
-        <div class="img">
-            <a target="_blank" href="#">
-                <img src="boot/NIKE MAGISTA OBRA II FG.jpg" alt="Fjords" width="300" height="200">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        </div>
-        
-        <div class="responsive">
-        <div class="img">
-            <a target="_blank" href="#">
-                <img src="boot/NIKE MERCURIAL VICTORY VI CR7 FG 1.jpg" alt="Fjords" width="300" height="200">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        </div>
-        
-        <div class="responsive">
-        <div class="img">
-            <a target="_blank" href="#">
-                <img src="boot/PUMA EVOTOUCH 1 FG 3.png" alt="Fjords" width="300" height="200">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        </div>
-        
-        <div class="responsive">
-        <div class="img">
-            <a target="_blank" href="#">
-                <img src="boot/PUMA king-top-m.i.i-pl-fg.png" alt="Fjords" width="300" height="200">
+                <img src="boot/adidas Copa 17.4 Flexible Ground 4.jpg" alt="Fjords" width="300" height="200">
             </a>
             <div class="desc">Add a description of the image here</div>
         </div>
@@ -354,11 +318,40 @@ li.dropdown {
         <div class="responsive">
         <div class="img">
             <a target="_blank" href="#">
+                <img src="boot/adidas X 16.1 Firm Ground 2.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
                 <img src="boot/adidas X 16.1 Firm Ground 3.jpg" alt="Fjords" width="300" height="200">
             </a>
             <div class="desc">Add a description of the image here</div>
         </div>
         </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/adidas X 16.1 Firm Ground 4.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        <div class="responsive">
+        <div class="img">
+            <a target="_blank" href="#">
+                <img src="boot/adidas X 16.1 Firm Ground.jpg" alt="Fjords" width="300" height="200">
+            </a>
+            <div class="desc">Add a description of the image here</div>
+        </div>
+        </div>
+        
+        
     </div>
     </body>
 </html>
